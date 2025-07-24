@@ -1,79 +1,134 @@
-<h1 align="center">Hi there, I'm Veer Panchal 👋</h1>
+<h1 align="center">
+  Hello, World! I'm Veer Panchal 👋
+  <img src="https://github.com/user-attachments/assets/15f4674b-3346-4db8-b3d8-a7f3bbc73f4c" width="35px" />
+</h1>
+<h3 align="center">
+  Innovating at the intersection of Code, Design & AI. 🚀
+</h3>
 
 <p align="center">
-  <i>Computer Engineering Student | Full-Stack & Mobile App Developer | ML Enthusiast</i>
+  💻 Computer Engineering Student | 🛠️ Full-Stack & Mobile App Developer | 🎨 UI/UX Designer | 🤖 ML Enthusiast
 </p>
 
 ---
 
-### 🚀 Projects & Highlights
+## 🚀 Projects & Highlights
 
-🔹 **🗳️ EVM-less Voting & News App**  
-↳ Biometric + Face Recognition | Secure Voting | Live News API Integration
+✨ **🗳️ EVM-less Voting & News App**
+➡️ Face & Biometric Auth | Secure Voting System | News API Integration
 
-🔹 **🍽️ Zomato-style Food App (Streamlit)**  
-↳ Categorized Menu | Cart System | ML-powered Food Suggestions
+✨ **🍽️ Zomato-style Food Ordering App**
+➡️ Streamlit UI | Categorized Menus | ML Recommendations
 
-🔹 **📊 ML Visualizer App**  
-↳ Regression & Clustering | Model Comparison | Live Data Dashboards
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-#### 🎨 Frontend & Mobile
-<p>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-#### 🧰 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+✨ **📊 Machine Learning Dashboard**
+➡️ Visualizes Supervised & Unsupervised Models | Real-time Data Interaction
 
 ---
 
-### 📚 Currently Exploring
+## 💻 Programming Languages
 
-- 🔧 MERN Stack Development  
-- 🤖 AI/ML Deployment & Optimization  
-- 📱 Real-time Mobile App Authentication (Face + Biometric)
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"><br>Python
+    </td>
+    <td align="center" width="130">
+      <img src="https://github.com/user-attachments/assets/7f6068e9-f967-4c43-a8f1-12f254aaa299" width="60"><br>C
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"><br>C++
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"><br>Java
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60"><br>JavaScript
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📈 GitHub Stats
+## 🎨 Frontend & Mobile Frameworks
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60"><br>HTML5
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60"><br>CSS
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60"><br>React Native
+    </td>
+    <td align="center" width="130">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60"><br>Tailwind CSS
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🧰 Tools, IDEs & Platforms
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="60"><br>Figma
+    </td>
+    <td align="center" width="130">
+      <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" width="60"><br>Canva
+    </td>
+    <td align="center" width="130">
+      <img src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg" width="60"><br>Expo
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" width="60"><br>Android Studio
+    </td>
+    <td align="center" width="130">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60"><br>VS Code
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Currently Exploring
+
+-   ⚙️ **MERN Stack Projects**
+-   📱 **Advanced React Native Auth** (Face + Biometric)
+-   📊 **ML Model Integration in Apps**
+-   🎨 **Building UI Systems** with Tailwind & Figma
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veer1603P&show_icons=true&theme=github_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Veer1603P&theme=github-dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Veer1603P&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Veer1603P&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 ---
 
-### 📬 Contact Me
+## ⚡ Fun Fact
 
-- 📧 Email: `your.email@example.com`  
-- 🔗 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+> I write code like poetry — full of logic, rhythm… and the occasional bug that refuses to rhyme. 🐞🧠🎭
 
 ---
 
-### ⚡ Fun Fact
+## 📬 Contact Me
 
-> I turn ☕ into code, and bugs into features 🐛 → ✨
+-   📧 Email: `panchalveer020@gmail.com`
+-   💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile) *(Remember to add your actual LinkedIn profile URL here!)*
+
+---
+
+<p align="center">
+  Thanks for stopping by! Your visit means a lot. 🙏
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=Veer1603P&color=blue" alt="Profile views" />
+  <br>
+  Made with ❤️ by Veer Panchal
+</p>
