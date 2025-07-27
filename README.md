@@ -163,11 +163,11 @@ I enjoy turning ideas into reality through code — blending logic, creativity, 
 ---
 
 ## 📈 GitHub Stats
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Veer1603P&show_icons=true&theme=tokyonight&hide_border=true" width="45%" alt="Veer's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Veer1603P&theme=tokyonight&hide_border=true" width="45%" alt="Veer's GitHub Streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Veer1603P&show_icons=true&theme=tokyonight&hide_border=true" width="48%" alt="Veer's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Veer1603P&theme=tokyonight&hide_border=true" width="48%" alt="Veer's GitHub Streak" />
-</p>
 
 ---
 
